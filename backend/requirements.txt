@@ -1,0 +1,10 @@
+flask
+flask-cors
+mysql-connector-python
+opencv-python
+pytesseract
+pandas
+scikit-learn
+numpy
+requests
+pillow
